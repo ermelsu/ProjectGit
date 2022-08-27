@@ -1,1 +1,1 @@
-Aprendendo a usar o git pela milésima vez.
+Personalizando totalmente meu github.
